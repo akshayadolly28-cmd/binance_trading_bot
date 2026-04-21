@@ -25,7 +25,7 @@ binance-trading-bot/
 │── requirements.txt     # Dependencies
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/binance-trading-bot.git
+git clone https://github.com/akshayadolly28-cmd/binance-trading-bot.git
 cd binance-trading-bot
 2. Install Dependencies
 pip install -r requirements.txt
